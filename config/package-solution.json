@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dinesh-solution-client-side-solution",
+    "id": "89ea4aab-2614-40ae-b6fb-0599a2c3080c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/dinesh-solution.sppkg"
+  }
+}
